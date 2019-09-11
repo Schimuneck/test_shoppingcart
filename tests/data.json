@@ -1,0 +1,30 @@
+{ "data":
+    {"products": [
+      { "code": "a",
+        "price": 1.0,
+        "currency": "EUR",
+        "lastupdate" : "11-09-2019"
+      },
+      { "code": "b",
+        "price": 1.1,
+        "currency": "EUR",
+        "lastupdate" : "11-09-2019"
+      },
+      { "code": "c",
+        "price": 1.173,
+        "currency": "EUR",
+        "lastupdate" : "11-09-2019"
+      },
+      { "code": "d",
+        "price": 2.233,
+        "currency": "EUR",
+        "lastupdate" : "11-09-2019"
+      },
+      { "code": "e",
+        "price": 3.0,
+        "currency": "EUR",
+        "lastupdate" : "11-09-2019"
+      }
+    ]
+  }
+}

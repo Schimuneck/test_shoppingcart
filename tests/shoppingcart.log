@@ -1,0 +1,180 @@
+DEBUG:root:2019-09-11 21:59:09.876673: New shopping car created
+DEBUG:root:2019-09-11 21:59:09.876903: Adding item a with quantity 1
+DEBUG:root:2019-09-11 21:59:09.876969: Adding item b with quantity 2
+DEBUG:root:2019-09-11 21:59:09.877019: Adding item c with quantity 1
+DEBUG:root:2019-09-11 21:59:09.877064: Adding item d with quantity 5
+DEBUG:root:2019-09-11 21:59:09.877107: Adding item e with quantity 3
+DEBUG:root:2019-09-11 21:59:09.877151: Printing receipt
+DEBUG:root:2019-09-11 21:59:09.877230: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 21:59:09.877298: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 21:59:09.877361: Receipt line 3: c - 1 - €1.17 - $1.31 - £1.01
+DEBUG:root:2019-09-11 21:59:09.877423: Receipt line 4: d - 5 - €11.15 - $12.50 - £9.65
+DEBUG:root:2019-09-11 21:59:09.877481: Receipt line 5: e - 3 - €9.00 - $10.09 - £7.79
+DEBUG:root:2019-09-11 21:59:09.877527: Receipt final line 6: Total: €24.52 - $27.48 - £21.22
+DEBUG:root:2019-09-11 21:59:10.671329: New shopping car created
+DEBUG:root:2019-09-11 21:59:10.671478: Adding item a with quantity 1
+DEBUG:root:2019-09-11 21:59:10.671535: Adding item b with quantity 2
+DEBUG:root:2019-09-11 21:59:10.671583: Adding item c with quantity 1
+DEBUG:root:2019-09-11 21:59:10.671627: Adding item d with quantity 5
+DEBUG:root:2019-09-11 21:59:10.671670: Adding item e with quantity 3
+DEBUG:root:2019-09-11 21:59:10.671713: Printing receipt
+DEBUG:root:2019-09-11 21:59:10.671784: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 21:59:10.671849: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 21:59:10.671910: Receipt line 3: c - 1 - €1.17 - $1.31 - £1.01
+DEBUG:root:2019-09-11 21:59:10.671969: Receipt line 4: d - 5 - €11.15 - $12.50 - £9.65
+DEBUG:root:2019-09-11 21:59:10.672026: Receipt line 5: e - 3 - €9.00 - $10.09 - £7.79
+DEBUG:root:2019-09-11 21:59:10.672072: Receipt final line 6: Total: €24.52 - $27.48 - £21.22
+DEBUG:root:2019-09-11 21:59:11.465191: New shopping car created
+DEBUG:root:2019-09-11 21:59:11.465343: Adding item a with quantity 1
+DEBUG:root:2019-09-11 21:59:11.465405: Adding item b with quantity 2
+WARNING:root:2019-09-11 21:59:11.465453: Invalid product code.
+DEBUG:root:2019-09-11 21:59:11.465505: Printing receipt
+DEBUG:root:2019-09-11 21:59:11.465576: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 21:59:11.465641: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 21:59:11.465688: Receipt final line 3: Total: €3.20 - $3.59 - £2.77
+DEBUG:root:2019-09-11 21:59:12.272711: New shopping car created
+DEBUG:root:2019-09-11 21:59:12.272859: Adding item a with quantity 1
+DEBUG:root:2019-09-11 21:59:12.272918: Adding item b with quantity 2
+WARNING:root:2019-09-11 21:59:12.272966: Invalid product code.
+DEBUG:root:2019-09-11 21:59:12.273010: Printing receipt
+DEBUG:root:2019-09-11 21:59:12.273082: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 21:59:12.273147: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 21:59:12.273195: Receipt final line 3: Total: €3.20 - $3.59 - £2.77
+DEBUG:root:2019-09-11 21:59:13.087229: New shopping car created
+DEBUG:root:2019-09-11 21:59:13.087380: Adding item a with quantity 1
+DEBUG:root:2019-09-11 21:59:13.087441: Printing receipt
+DEBUG:root:2019-09-11 21:59:13.087517: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 21:59:13.087570: Receipt final line 2: Total: €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 21:59:13.958380: New shopping car created
+DEBUG:root:2019-09-11 21:59:13.959795: Adding item a with quantity 1
+DEBUG:root:2019-09-11 21:59:13.959990: Printing receipt
+DEBUG:root:2019-09-11 21:59:13.960216: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 21:59:13.960376: Receipt final line 2: Total: €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 21:59:14.782649: New shopping car created
+DEBUG:root:2019-09-11 21:59:14.782803: Adding item a with quantity 2
+DEBUG:root:2019-09-11 21:59:14.782862: Printing receipt
+DEBUG:root:2019-09-11 21:59:14.782966: Receipt line 1: a - 2 - €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 21:59:14.783017: Receipt final line 2: Total: €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 21:59:15.577569: New shopping car created
+DEBUG:root:2019-09-11 21:59:15.577744: Adding item a with quantity 2
+DEBUG:root:2019-09-11 21:59:15.577812: Printing receipt
+DEBUG:root:2019-09-11 21:59:15.577903: Receipt line 1: a - 2 - €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 21:59:15.577967: Receipt final line 2: Total: €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 21:59:16.370724: New shopping car created
+DEBUG:root:2019-09-11 21:59:16.370868: Adding item a with quantity 1
+DEBUG:root:2019-09-11 21:59:16.370926: Adding item b with quantity 2
+WARNING:root:2019-09-11 21:59:16.370970: Invalid product quantity.
+DEBUG:root:2019-09-11 21:59:16.371012: Printing receipt
+DEBUG:root:2019-09-11 21:59:16.371079: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 21:59:16.371140: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 21:59:16.371185: Receipt final line 3: Total: €3.20 - $3.59 - £2.77
+DEBUG:root:2019-09-11 21:59:17.170611: New shopping car created
+DEBUG:root:2019-09-11 21:59:17.170750: Adding item a with quantity 1
+DEBUG:root:2019-09-11 21:59:17.170803: Adding item b with quantity 2
+WARNING:root:2019-09-11 21:59:17.170846: Invalid product quantity.
+DEBUG:root:2019-09-11 21:59:17.170887: Printing receipt
+DEBUG:root:2019-09-11 21:59:17.170954: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 21:59:17.171015: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 21:59:17.171060: Receipt final line 3: Total: €3.20 - $3.59 - £2.77
+DEBUG:root:2019-09-11 21:59:17.986332: New shopping car created
+DEBUG:root:2019-09-11 21:59:17.986481: Adding item a with quantity 1
+DEBUG:root:2019-09-11 21:59:17.986537: Updating item a with more 1
+DEBUG:root:2019-09-11 21:59:17.986581: Printing receipt
+DEBUG:root:2019-09-11 21:59:17.986653: Receipt line 1: a - 2 - €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 21:59:17.986702: Receipt final line 2: Total: €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 21:59:18.785780: New shopping car created
+DEBUG:root:2019-09-11 21:59:18.785921: Adding item a with quantity 1
+DEBUG:root:2019-09-11 21:59:18.785977: Updating item a with more 1
+DEBUG:root:2019-09-11 21:59:18.786021: Printing receipt
+DEBUG:root:2019-09-11 21:59:18.786090: Receipt line 1: a - 2 - €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 21:59:18.786138: Receipt final line 2: Total: €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 22:26:20.098606: New shopping car created
+DEBUG:root:2019-09-11 22:26:20.098847: Adding item a with quantity 1
+DEBUG:root:2019-09-11 22:26:20.098915: Adding item b with quantity 2
+DEBUG:root:2019-09-11 22:26:20.098962: Adding item c with quantity 1
+DEBUG:root:2019-09-11 22:26:20.099006: Adding item d with quantity 5
+DEBUG:root:2019-09-11 22:26:20.099049: Adding item e with quantity 3
+DEBUG:root:2019-09-11 22:26:20.099091: Printing receipt
+DEBUG:root:2019-09-11 22:26:20.099170: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 22:26:20.099235: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 22:26:20.099295: Receipt line 3: c - 1 - €1.17 - $1.31 - £1.01
+DEBUG:root:2019-09-11 22:26:20.099353: Receipt line 4: d - 5 - €11.15 - $12.50 - £9.65
+DEBUG:root:2019-09-11 22:26:20.099410: Receipt line 5: e - 3 - €9.00 - $10.09 - £7.79
+DEBUG:root:2019-09-11 22:26:20.099455: Receipt final line 6: Total: €24.52 - $27.48 - £21.22
+DEBUG:root:2019-09-11 22:26:20.935787: New shopping car created
+DEBUG:root:2019-09-11 22:26:20.935933: Adding item a with quantity 1
+DEBUG:root:2019-09-11 22:26:20.936082: Adding item b with quantity 2
+DEBUG:root:2019-09-11 22:26:20.936166: Adding item c with quantity 1
+DEBUG:root:2019-09-11 22:26:20.936246: Adding item d with quantity 5
+DEBUG:root:2019-09-11 22:26:20.936315: Adding item e with quantity 3
+DEBUG:root:2019-09-11 22:26:20.936363: Printing receipt
+DEBUG:root:2019-09-11 22:26:20.936461: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 22:26:20.936529: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 22:26:20.936601: Receipt line 3: c - 1 - €1.17 - $1.31 - £1.01
+DEBUG:root:2019-09-11 22:26:20.936683: Receipt line 4: d - 5 - €11.15 - $12.50 - £9.65
+DEBUG:root:2019-09-11 22:26:20.936744: Receipt line 5: e - 3 - €9.00 - $10.09 - £7.79
+DEBUG:root:2019-09-11 22:26:20.936790: Receipt final line 6: Total: €24.52 - $27.48 - £21.22
+DEBUG:root:2019-09-11 22:26:21.737068: New shopping car created
+DEBUG:root:2019-09-11 22:26:21.737263: Adding item a with quantity 1
+DEBUG:root:2019-09-11 22:26:21.737357: Adding item b with quantity 2
+WARNING:root:2019-09-11 22:26:21.737438: Invalid product code.
+DEBUG:root:2019-09-11 22:26:21.737525: Printing receipt
+DEBUG:root:2019-09-11 22:26:21.737642: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 22:26:21.737752: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 22:26:21.737835: Receipt final line 3: Total: €3.20 - $3.59 - £2.77
+DEBUG:root:2019-09-11 22:26:22.531362: New shopping car created
+DEBUG:root:2019-09-11 22:26:22.531500: Adding item a with quantity 1
+DEBUG:root:2019-09-11 22:26:22.531555: Adding item b with quantity 2
+WARNING:root:2019-09-11 22:26:22.531599: Invalid product code.
+DEBUG:root:2019-09-11 22:26:22.531640: Printing receipt
+DEBUG:root:2019-09-11 22:26:22.531706: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 22:26:22.531766: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 22:26:22.531811: Receipt final line 3: Total: €3.20 - $3.59 - £2.77
+DEBUG:root:2019-09-11 22:26:23.334042: New shopping car created
+DEBUG:root:2019-09-11 22:26:23.334190: Adding item a with quantity 1
+DEBUG:root:2019-09-11 22:26:23.334245: Printing receipt
+DEBUG:root:2019-09-11 22:26:23.334315: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 22:26:23.334365: Receipt final line 2: Total: €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 22:26:24.114347: New shopping car created
+DEBUG:root:2019-09-11 22:26:24.114485: Adding item a with quantity 1
+DEBUG:root:2019-09-11 22:26:24.114538: Printing receipt
+DEBUG:root:2019-09-11 22:26:24.114608: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 22:26:24.114656: Receipt final line 2: Total: €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 22:26:24.910628: New shopping car created
+DEBUG:root:2019-09-11 22:26:24.910769: Adding item a with quantity 2
+DEBUG:root:2019-09-11 22:26:24.910824: Printing receipt
+DEBUG:root:2019-09-11 22:26:24.910893: Receipt line 1: a - 2 - €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 22:26:24.910942: Receipt final line 2: Total: €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 22:26:25.700871: New shopping car created
+DEBUG:root:2019-09-11 22:26:25.701015: Adding item a with quantity 2
+DEBUG:root:2019-09-11 22:26:25.701074: Printing receipt
+DEBUG:root:2019-09-11 22:26:25.701145: Receipt line 1: a - 2 - €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 22:26:25.701195: Receipt final line 2: Total: €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 22:26:26.516455: New shopping car created
+DEBUG:root:2019-09-11 22:26:26.516599: Adding item a with quantity 1
+DEBUG:root:2019-09-11 22:26:26.516654: Adding item b with quantity 2
+WARNING:root:2019-09-11 22:26:26.516697: Invalid product quantity.
+DEBUG:root:2019-09-11 22:26:26.516737: Printing receipt
+DEBUG:root:2019-09-11 22:26:26.516802: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 22:26:26.516862: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 22:26:26.516906: Receipt final line 3: Total: €3.20 - $3.59 - £2.77
+DEBUG:root:2019-09-11 22:26:27.312092: New shopping car created
+DEBUG:root:2019-09-11 22:26:27.312233: Adding item a with quantity 1
+DEBUG:root:2019-09-11 22:26:27.312288: Adding item b with quantity 2
+WARNING:root:2019-09-11 22:26:27.312331: Invalid product quantity.
+DEBUG:root:2019-09-11 22:26:27.312371: Printing receipt
+DEBUG:root:2019-09-11 22:26:27.312457: Receipt line 1: a - 1 - €1.00 - $1.12 - £0.87
+DEBUG:root:2019-09-11 22:26:27.312520: Receipt line 2: b - 2 - €2.20 - $2.47 - £1.90
+DEBUG:root:2019-09-11 22:26:27.312564: Receipt final line 3: Total: €3.20 - $3.59 - £2.77
+DEBUG:root:2019-09-11 22:26:28.112936: New shopping car created
+DEBUG:root:2019-09-11 22:26:28.113083: Adding item a with quantity 1
+DEBUG:root:2019-09-11 22:26:28.113140: Updating item a with more 1
+DEBUG:root:2019-09-11 22:26:28.113183: Printing receipt
+DEBUG:root:2019-09-11 22:26:28.113251: Receipt line 1: a - 2 - €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 22:26:28.113299: Receipt final line 2: Total: €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 22:26:28.902650: New shopping car created
+DEBUG:root:2019-09-11 22:26:28.902831: Adding item a with quantity 1
+DEBUG:root:2019-09-11 22:26:28.902937: Updating item a with more 1
+DEBUG:root:2019-09-11 22:26:28.902995: Printing receipt
+DEBUG:root:2019-09-11 22:26:28.903069: Receipt line 1: a - 2 - €2.00 - $2.24 - £1.73
+DEBUG:root:2019-09-11 22:26:28.903122: Receipt final line 2: Total: €2.00 - $2.24 - £1.73

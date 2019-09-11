@@ -1,0 +1,4 @@
+- Python3
+- sqlite3
+- unittest
+- currency_converter
